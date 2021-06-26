@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Jan Biardzki
+
+### About me
+Im' self taught frontend web developer with aspiration for design. Learning programming since mid 2018, hired in [NetInteractive](https://netinteractive.pl) since march 2019. I care about user experience and interested in Jamstack technology.
 
 <!--
 **yanchesky/yanchesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
