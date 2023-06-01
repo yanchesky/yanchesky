@@ -1,23 +1,25 @@
-### Hi there 👋 My name is Jan Biardzki
+### Hi 👋 I'm Janek
 
 ### About me
-I'm self taught frontend web developer turned toward design/UX more than backend. Learning programming since mid 2018, hired in [NetInteractive](https://netinteractive.pl) since march 2019. I love learning new things, solving problems using programming language. Caring about performance, interested in Jamstack technology. Aspiring for building big web applications.
+I'm self-taught front-end developer turned toward back-end rather than design/UX. I've been learning to program since mid-2018, hired in [NetInteractive](https://netinteractive.pl) since March 2019. Working at [Andersen Lab](https://andersenlab.com) since septermber 2021. I love learning new things, solving problems using programming language. 
 
-🔭 Currently working on developing catering system software [Caterings.pl](https://www.caterings.pl)
+🔭 Currently working at project for royalties management [IRIS](https://www.synchtank.com/solutions/music-royalty-accounting-software/)
 
-📚 Experienced in **JavaScript** and **React**. Also familiar with **React Native**, **Gatsby**, **Redux**, **MobX**, **styled-components** and Python
+📚 Experienced in **React** and **TypeScript**.
  
-📖 Currently learning advanced architecture frontend design [ANF](https://architekturanafroncie.pl)
+📖 In my free-time I'm playing with the openAI API
+
+⌨️ Contributor to the [react-admin](https://marmelab.com/react-admin/)
 
 👨‍🎓 Master's degree in Micro Biology
 
-⚡ Fun fact: I'm hobbyst cider maker
-
 👇 Get in touch 
+  
+[LI](https://www.linkedin.com/in/jan-biardzki/)&nbsp;&nbsp;
 
-  [![My instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Instagram_simple_icon.svg/20px-Instagram_simple_icon.svg.png)](https://www.instagram.com/yanchesky/)&nbsp;&nbsp;
-  [![My linkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Font_Awesome_5_brands_linkedin-in.svg/20px-Font_Awesome_5_brands_linkedin-in.svg.png)](https://www.linkedin.com/in/jan-biardzki/)&nbsp;&nbsp;
-[![My mail](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aiga_mail.svg/20px-Aiga_mail.svg.png)](mailto:yano.biardzki@gmail.com)
+[@](mailto:yano.biardzki@gmail.com)
+
+[IG](https://www.instagram.com/yanchesky/)&nbsp;&nbsp;
 
 
 
