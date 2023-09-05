@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Janek
 
 ### About me
-I'm self-taught front-end developer turned toward back-end rather than design/UX. I've been learning to program since mid-2018, hired in [NetInteractive](https://netinteractive.pl) since March 2019. Working at [Andersen Lab](https://andersenlab.com) since septermber 2021. I love learning new things, solving problems using programming language. 
+I'm self-taught front-end developer turned toward back-end rather than design/UX. I've been learning to program since mid-2018, hired in [NetInteractive](https://netinteractive.pl) since March 2019. Working at [Andersen Lab](https://andersenlab.com) since september 2021. I love learning new things, solving problems using programming language. 
 
 🔭 Currently working at project for royalties management [IRIS](https://www.synchtank.com/solutions/music-royalty-accounting-software/)
 
