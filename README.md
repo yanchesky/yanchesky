@@ -9,8 +9,6 @@ I'm self-taught front-end developer turned toward back-end rather than design/UX
  
 📖 In my free-time I'm playing with the openAI API
 
-⌨️ Contributor to the [react-admin](https://marmelab.com/react-admin/)
-
 👨‍🎓 Master's degree in Micro Biology
 
 👇 Get in touch 
